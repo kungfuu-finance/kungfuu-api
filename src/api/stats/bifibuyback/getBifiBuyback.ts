@@ -80,7 +80,7 @@ const updateBifiBuyback = async () => {
       promises.push(prom);
     });
 
-    const bifiPrice = await fetchPrice({ oracle: 'tokens', id: 'BIFI' });
+    const bifiPrice = await fetchPrice({ oracle: 'tokens', id: 'KNGFUU' });
 
     const results = await Promise.allSettled<{ [key: string]: BigNumber }[]>(promises);
     let dailyBifiBuybackAmountByChain: { [key: string]: BigNumber } = {};

@@ -1160,6 +1160,18 @@ const _tokens = {
     logoURI:
       'https://raw.githubusercontent.com/beefyfinance/beefy-app/prod/src/images/single-assets/BIFI.png',
   },
+  KUNGFUU: {
+    name: 'KungFuu',
+    symbol: 'KNGFUU',
+    address: '0x89b61Ab033584918103698953870F07D6db412A3',
+    chainId: 250,
+    decimals: 18,
+    website: 'https://www.kungfuu.app/',
+    description:
+      'KungFuu does stuff',
+    logoURI:
+      'https://raw.githubusercontent.com/kungfuu-finance/logo/main/logo200.png',
+  },
   ANY: {
     name: 'AnySwap',
     symbol: 'ANY',

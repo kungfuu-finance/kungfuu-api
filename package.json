@@ -1,7 +1,7 @@
 {
-  "name": "beefy-api",
+  "name": "kungfuu-api",
   "version": "1.0.0",
-  "repository": "beefyfinance/beefy-api",
+  "repository": "kungfuu-api",
   "license": "MIT",
   "scripts": {
     "install-all": "yarn && cd packages/address-book && yarn",

@@ -6,10 +6,10 @@ const fetchPrice = require('../../../utils/fetchPrice');
 const ERC20 = require('../../../abis/ERC20.json');
 const { getContractWithProvider } = require('../../../utils/contractHelper');
 
-const BIFI = '0xd6070ae98b8069de6B494332d1A1a81B6179D960';
-const REWARDS = '0x7fB900C14c9889A559C777D016a885995cE759Ee';
+const BIFI = '0x89b61Ab033584918103698953870F07D6db412A3'; // KungFuu Token
+const REWARDS = '0x29187b10a04B269Cf067AE013B3ab58d4affaC03'; //KungFuu Treasury
 const ORACLE = 'tokens';
-const ORACLE_ID = 'BIFI';
+const ORACLE_ID = 'KNGFUU';
 const DECIMALS = '1e18';
 const BLOCKS_PER_DAY = 28800;
 
