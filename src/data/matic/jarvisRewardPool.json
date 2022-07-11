@@ -1,0 +1,74 @@
+[
+  {
+    "name": "kyber-2eur-agden-july22",
+    "address": "0x7d85cCf1B7cbAAB68c580E14fA8C92E32704404f",
+    "decimals": "1e18",
+    "chainId": 137,
+    "lp0": {
+      "address": "0x2fFbCE9099cBed86984286A54e5932414aF4B717",
+      "oracle": "tokens",
+      "oracleId": "jarvis-2eur",
+      "decimals": "1e18"
+    },
+    "lp1": {
+      "address": "0xEEfF5d27e40A5239f6F28d4b0fbE20acf6432717",
+      "oracle": "tokens",
+      "oracleId": "agDEN-JULY22",
+      "decimals": "1e18"
+    }
+  },
+  {
+    "name": "kyber-2cad-qui",
+    "address": "0x32d8513eDDa5AEf930080F15270984A043933A95",
+    "decimals": "1e18",
+    "chainId": 137,
+    "lp0": {
+      "address": "0xA69b0D5c0C401BBA2d5162138613B5E38584F63F",
+      "oracle": "tokens",
+      "oracleId": "jarvis-2cad",
+      "decimals": "1e18"
+    },
+    "lp1": {
+      "address": "0xF65fb31ad1ccb2E7A6Ec3B34BEA4c81b68af6695",
+      "oracle": "tokens",
+      "oracleId": "QUI",
+      "decimals": "1e18"
+    }
+  },
+  {
+    "name": "kyber-ses-2jpy",
+    "address": "0x3b76F90A8ab3EA7f0EA717F34ec65d194E5e9737",
+    "decimals": "1e18",
+    "chainId": 137,
+    "lp0": {
+      "address": "0x9120ECada8dc70Dc62cBD49f58e861a09bf83788",
+      "oracle": "tokens",
+      "oracleId": "SES",
+      "decimals": "1e18"
+    },
+    "lp1": {
+      "address": "0xE8dCeA7Fb2Baf7a9F4d9af608F06d78a687F8d9A",
+      "oracle": "tokens",
+      "oracleId": "jarvis-2jpy",
+      "decimals": "1e18"
+    }
+  },
+  {
+    "name": "kyber-4eur-den-july22",
+    "address": "0xF84fA79A94aFb742A98EDf2c7a10ef7134b684bC",
+    "decimals": "1e18",
+    "chainId": 137,
+    "lp0": {
+      "address": "0x53d00635aeC4a6379523341AEBC325857f32FdE1",
+      "oracle": "tokens",
+      "oracleId": "DEN-JULY22",
+      "decimals": "1e18"
+    },
+    "lp1": {
+      "address": "0xAd326c253A84e9805559b73A08724e11E49ca651",
+      "oracle": "tokens",
+      "oracleId": "jarvis-4eur",
+      "decimals": "1e18"
+    }
+  }
+]

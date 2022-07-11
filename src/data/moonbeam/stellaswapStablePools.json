@@ -1,0 +1,29 @@
+[
+  {
+    "name": "stellaswap-dualETH",
+    "address": "0xa3eE3a0a36Dc915fDc93062e4B386DF37d00217E",
+    "pool": "0xb86271571c90ad4E0C9776228437340b42623402",
+    "decimals": "1e18",
+    "virtualOracleId": "ETH",
+    "poolId": 8,
+    "chainId": 1284
+  },
+  {
+    "name": "stellaswap-base4pool",
+    "address": "0xdA782836B65edC4E6811c7702C5E21786203Ba9d",
+    "pool": "0x422b5b7A15FB12c518AA29f9def640b4773427f8",
+    "decimals": "1e18",
+    "virtualOracleId": "USDT",
+    "poolId": 14,
+    "chainId": 1284
+  },
+  {
+    "name": "stellaswap-mai4pool",
+    "address": "0xA0AA99F71033378864Ed6E499eb03612264e319a",
+    "pool": "0x7FbE3126C03444D43fC403626ec81E3e809E6b46",
+    "decimals": "1e18",
+    "virtualOracleId": "USDT",
+    "poolId": 16,
+    "chainId": 1284
+  }
+]
