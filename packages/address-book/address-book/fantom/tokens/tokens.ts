@@ -1485,6 +1485,18 @@ const _tokens = {
     logoURI:
       'https://tokens.pancakeswap.finance/images/0xfCe146bF3146100cfe5dB4129cf6C82b0eF4Ad8c.png',
   },
+    SINGLE: {
+    name: 'single',
+    symbol: 'SINGLE',
+    address: '0x8cc97B50Fe87f31770bcdCd6bc8603bC1558380B',
+    chainId: 250,
+    decimals: 18,
+    logoURI:
+      'https://assets.spooky.fi/tokens/SINGLE.png',
+    website: 'https://singlefinance.io/',
+    description:
+      'Single Finance is the first marked-to-USD DeFi yield earning platform, offering strategies that protect your capital by minimizing the impact of price effect.',
+  }
 } as const;
 
 export const tokens: ConstRecord<typeof _tokens, Token> = _tokens;
