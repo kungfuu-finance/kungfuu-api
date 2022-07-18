@@ -126,5 +126,27 @@
       "oracleId": "SINGLE",
       "decimals": "1e18"
     }
+  },
+    {
+    "name": "boo-kngfuu-ftm",
+    "address": "0xF704F5AC5EDf152168E07E6F5F108366911250Ac",
+    "decimals": "1e18",
+    "poolId": 1,
+    "chainId": 250,
+    "oracleB": "tokens",
+    "oracleIdB": "KNGFUU",
+    "decimalsB": "1e18",
+    "lp0": {
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "oracle": "tokens",
+      "oracleId": "WFTM",
+      "decimals": "1e18"
+    },
+    "lp1": {
+      "address": "0x89b61Ab033584918103698953870F07D6db412A3",
+      "oracle": "tokens",
+      "oracleId": "KNGFUU",
+      "decimals": "1e18"
+    }
   }
 ]

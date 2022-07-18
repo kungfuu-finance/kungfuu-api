@@ -1168,7 +1168,7 @@ const _tokens = {
     decimals: 18,
     website: 'https://www.kungfuu.app/',
     description:
-      'KungFuu does stuff',
+      'KungFuu is building a complete DeFi ecosystem built around the hyper-deflationary KNGFUU token',
     logoURI:
       'https://raw.githubusercontent.com/kungfuu-finance/logo/main/logo200.png',
   },
